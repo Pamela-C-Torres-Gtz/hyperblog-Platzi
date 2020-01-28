@@ -1,5 +1,17 @@
 body {
-    color: palevioletred;
-    text-align: center;
+    color: #333333;
+    text-align: left;
     font-family: "Arial";
+}
+
+#container {
+    width: 70%;
+    padding: 1rem;
+    text-align: left;
+    border: 1px solid #dddddd;
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 20px;
 }
